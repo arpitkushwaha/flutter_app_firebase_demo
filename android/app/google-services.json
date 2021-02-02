@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "200135156816",
+    "project_id": "fir-qrcode-demo",
+    "storage_bucket": "fir-qrcode-demo.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:200135156816:android:5b189520fc51c5f62b5d55",
+        "android_client_info": {
+          "package_name": "com.arpit.flutter_app_firebase_demo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "200135156816-v4l1mbmtaqdadi16bv5r4i90r3ru7uo5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAXFM5rQnMi3syoRjmt3MNUunTu4D8B_J4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "200135156816-v4l1mbmtaqdadi16bv5r4i90r3ru7uo5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
